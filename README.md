@@ -1,18 +1,11 @@
 <!--
 
-![Yerin's github stats](https://github-readme-stats.vercel.app/api?username=Yerinnnn&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yerinnnn&layout=compact&theme=default)
+
 -->
 
-# 👋 Hi there, I'm Boa!
+# 👋 Hi there
 
 > 2025 크래프톤 정글 9기 부트캠프 참가 중
-
----
-
-## 👩‍💻 About Me
-
-- 백엔드 중심 풀스택 개발자를 지향합니다.
 
 ---
 
@@ -29,11 +22,11 @@
    
 
 **Frameworks & Libraries**  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor)
 
 ---
 
-## 🧰 Tools & Platforms
+## Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -46,25 +39,6 @@
 ---
 
 
-## ✍️ Blog & Writing
+## Blog & Writing
 
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kimkimkimbo)
-
----
-
-## 🏆 GitHub Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kimkimkimbo&theme=tokyonight&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📊 GitHub Stats
-
-![Yerinnnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkimkimbo&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkimkimbo&layout=compact&theme=tokyonight&hide=c)
-
-
----
-
-> 🙌 방문해주셔서 감사합니다! 오늘도 꾸준하게 🐾 성장 중이에요.
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kimkimkimkim/posts)
