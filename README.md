@@ -71,4 +71,3 @@ I enjoy building end-to-end services. To me, software development is not just ab
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimkimkimbo\&custom_title=kimkimkimbo%20GitHub%20Stats\&bg_color=000000\&title_color=ffffff\&text_color=ffffff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkimkimbo\&layout=compact\&bg_color=000000\&title_color=ffffff\&text_color=ffffff)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kimkimkimbo\&theme=radical)
