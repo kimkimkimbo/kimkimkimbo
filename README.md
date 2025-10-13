@@ -14,19 +14,12 @@ I enjoy building end-to-end services. To me, software development is not just ab
 
 ---
 
-## 🎓 Education & Training
+## 💡 Projects
 
-* **KRAFTON Jungle 9th Cohort** (2025.05.12 ~ 2025.10.02)
-  Intensive computer science bootcamp focused on system programming, OS, algorithms.
-
-* **SC(Science Communicator) Creative Experiment Instructor Training – Basic Course** (2025.03.18 ~ 2025.04.24)
-  Program focused on creative science communication and experimental education.
-
-* **NIPA–AWS Developer Bootcamp** (2024.11.11 ~ 2024.12.20)
-  Hands-on program for cloud-native development with AWS services.
-
-* **Intel AI for Future Workforce** (2024.06.24)
-  Training on applied artificial intelligence and its role in future industries.
+ ### PintOS Virtual Memory Project (2025.08)
+ Role: System Programmer (KAIST PintOS)
+ Implemented Virtual Memory features including Supplementary Page Table, Frame Table, Lazy Loading, and Memory Mapping.
+ Contributed to **136/141 test cases passed (96.5%).**
 
 ---
 
