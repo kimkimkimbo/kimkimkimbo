@@ -1,8 +1,13 @@
 ## 👋 Hi there, I’m Boa Kim 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:booooa.kim@gmail.com)
 
+I enjoy building end-to-end services that make a real impact.
+To me, software development isn’t just about writing code — it’s about creating products that work seamlessly in the real world, deliver real value, and make people’s everyday lives easier.
 
-I enjoy building end-to-end services. To me, software development is not just about coding but about creating products that run in real-world environments, deliver genuine value, enhance people’s experiences, and generate revenue. I am also deeply interested in product management and the broader IT landscape, as I like connecting technological development with strategic product thinking. My goal is to create services that are not only functional but also engaging and impactful in the real world.
+I’m also deeply interested in product management and other IT-related fields, as I love bridging the gap between technical development and strategic product thinking.
+
+My goal is to build services that are not only functional, but also engaging and meaningful to people.
+
+📧 Contact: [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:booooa.kim@gmail.com)
 
 ---
 
