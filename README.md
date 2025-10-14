@@ -7,7 +7,7 @@ I’m also deeply interested in product management and other IT-related fields, 
 
 My goal is to build services that are not only functional, but also engaging and meaningful to people.
 
-Contact
+Contact: <br>
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:booooa.kim@gmail.com)
 
 ---
