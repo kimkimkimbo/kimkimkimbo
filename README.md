@@ -22,11 +22,8 @@ Contact: <br>
 
 ## 💡 Projects
 
- ### PintOS Virtual Memory Project (2025.08)
- Role: System Programmer (KAIST PintOS)
- Implemented Virtual Memory features including Supplementary Page Table, Frame Table, Lazy Loading, and Memory Mapping.
- Contributed to **136/141 test cases passed (96.5%).**
-
+ -
+ 
 ---
 
 ## 🛠 Tech Stacks
